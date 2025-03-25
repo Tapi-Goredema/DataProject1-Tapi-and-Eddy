@@ -5,7 +5,7 @@ Due to problems with file size, the files were too large to upload straight to g
 
 ## Instructions (Google Colab)
 1. Open the Jupypter notebook in Google Colab
-2. Download the local file (games.csv) and unsert it into the working directory, usually '/content'
+2. Download the local file (games.csv) and insert it into the working directory, usually '/content'
 3. Run the block of code
 4. User can input what file format they would like their transformed data in
 5. Enjoy the summarizations and analyses of the data
